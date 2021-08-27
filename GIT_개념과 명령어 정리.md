@@ -36,7 +36,7 @@ git commit --amend
 
 ## 2. 브랜치 병합(merge)
 
-![image-20210820112513456](C:\Users\155443\AppData\Roaming\Typora\typora-user-images\image-20210820112513456.png)
+![image-20210820112513456](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210820112513456.png)
 
 
 
@@ -58,7 +58,7 @@ git commit --amend
 
 `git merge o2` : 이후에 commit msg 입력 
 
-![image-20210820114251731](C:\Users\155443\AppData\Roaming\Typora\typora-user-images\image-20210820114251731.png)
+![image-20210820114251731](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210820114251731.png)
 
 
 
@@ -113,7 +113,7 @@ o2 content
 
 
 
-![image-20210820130617231](C:\Users\155443\AppData\Roaming\Typora\typora-user-images\image-20210820130617231.png)
+![image-20210820130617231](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210820130617231.png)
 
 
 
@@ -145,9 +145,9 @@ content
 
 `git checkout master` -> `git merge o3` 의 결과는 다음과 같다.
 
-![image-20210823101931740](C:\Users\155443\AppData\Roaming\Typora\typora-user-images\image-20210823101931740.png)
+![image-20210823101931740](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210823101931740.png)
 
-![image-20210823102117488](C:\Users\155443\AppData\Roaming\Typora\typora-user-images\image-20210823102117488.png)
+![image-20210823102117488](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210823102117488.png)
 
 
 
@@ -181,7 +181,7 @@ work1.txt 에 들어가게 되면 각 branch(master, o3) 가 한 부분에 대�
 
 # GIT Back Up
 
-![image-20210823172144502](C:\Users\155443\AppData\Roaming\Typora\typora-user-images\image-20210823172144502.png)
+![image-20210823172144502](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210823172144502.png)
 
 ### 1. 지역저장소 -> 원격저장소와 연결
 
@@ -270,7 +270,7 @@ $ cd .. # a repo 에서 나와서
 
 ```
 
-![image-20210824095350026](C:\Users\155443\AppData\Roaming\Typora\typora-user-images\image-20210824095350026.png)
+![image-20210824095350026](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210824095350026.png)
 
 - push 가 잘 된것을 확인할 수 있다.
 
