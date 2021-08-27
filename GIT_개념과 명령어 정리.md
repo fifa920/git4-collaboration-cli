@@ -36,7 +36,7 @@ git commit --amend
 
 ## 2. 브랜치 병합(merge)
 
-![image-20210820112513456](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210820112513456.png)
+![image-20210820112513456](.\img\image-20210820112513456.png)
 
 
 
