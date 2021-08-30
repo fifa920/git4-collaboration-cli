@@ -36,7 +36,9 @@ git commit --amend
 
 ## 2. 브랜치 병합(merge)
 
-![image-20210820112513456](.\img\image-20210820112513456.png)
+<img src='.\img\image-20210820112513456.png'>
+
+
 
 
 
@@ -58,7 +60,11 @@ git commit --amend
 
 `git merge o2` : 이후에 commit msg 입력 
 
-![image-20210820114251731](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210820114251731.png)
+<img src='./img/image-20210820114251731.png'>
+
+
+
+
 
 
 
@@ -113,7 +119,9 @@ o2 content
 
 
 
-![image-20210820130617231](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210820130617231.png)
+<img src='./img/image-20210820130617231.png'>
+
+
 
 
 
@@ -149,7 +157,11 @@ content
 
 <img src="./img/image-20210823101931740.png">
 
-![image-20210823102117488](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210823102117488.png)
+<img src="./img/image-20210823102117488.png">
+
+
+
+
 
 
 
@@ -183,7 +195,9 @@ work1.txt 에 들어가게 되면 각 branch(master, o3) 가 한 부분에 대�
 
 # GIT Back Up
 
-![image-20210823172144502](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210823172144502.png)
+<img src="./img/image-20210823172144502.png">
+
+
 
 ### 1. 지역저장소 -> 원격저장소와 연결
 
@@ -272,7 +286,9 @@ $ cd .. # a repo 에서 나와서
 
 ```
 
-![image-20210824095350026](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210824095350026.png)
+<img src="./img/image-20210824095350026.png">
+
+
 
 - push 가 잘 된것을 확인할 수 있다.
 
@@ -280,7 +296,7 @@ $ cd .. # a repo 에서 나와서
 
 > 협업할 사람을 초대해야 push 가 가능하다.
 
-![image-20210824095717009](C:\Users\155443\AppData\Roaming\Typora\typora-user-images\image-20210824095717009.png)
+<img src="./img/image-20210830092229830.png">
 
 - github에 들어가 **Settings** 에 들어가 **Manage access** 클릭하여 `Invite a collaborator` 를 들어간 후 github ID를 입력하여 초대 메일을 보낸다.
 
