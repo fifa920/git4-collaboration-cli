@@ -145,7 +145,9 @@ content
 
 `git checkout master` -> `git merge o3` 의 결과는 다음과 같다.
 
-![image-20210823101931740](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210823101931740.png)
+
+
+<img src="./img/image-20210823101931740.png">
 
 ![image-20210823102117488](C:\Users\155443\Desktop\Me\Infra\b\git4-collaboration-cli\img\image-20210823102117488.png)
 
